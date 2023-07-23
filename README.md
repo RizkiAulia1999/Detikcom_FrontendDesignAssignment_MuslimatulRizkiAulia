@@ -1,6 +1,6 @@
 # Detikcom_FrontendDesignAssignment_MuslimatulRizkiAulia
-##Landing Page Responsive
-Home
+##Landing Page HTML, CSS, Bootstrap Responsive
+#Home
 ![screencapture-127-0-0-1-3000-Welcome-Page-html-2023-07-23-20_51_18](https://github.com/RizkiAulia1999/Detikcom_FrontendDesignAssignment_MuslimatulRizkiAulia/assets/55042970/39646e87-4116-499a-bc13-a0a94fa7f25b)
 
 Register Page
