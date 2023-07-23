@@ -1,0 +1,55 @@
+/* Responsive Dekstop - Registrasi*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .register-hero{
+        width: 1200px;
+    }
+	.card-responsive{
+        width: 600px;
+        margin: 20px 170px;
+    }
+    .footer-regis{
+        margin-top: 680px;
+    }
+    .upload-file{
+       width: 80px;
+    }
+   footer{
+        width: 1200px;
+    }
+    .card-img{
+        /* width: 250px; */
+    }
+    .card-col{
+        padding-left: 70px;
+    }
+}
+
+/* Responsive Dekstop - Welcome Page*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .section-hero{
+        width: 1200px;
+    }
+    .about-responsive{
+        width: 1000px;
+      }
+      .about-1{
+        padding-left: 40px;
+      }
+      .section-mechanism{
+        width: 1200px;
+      }
+      .container-mechanism {
+        padding: 100px 50px;
+      }
+      .container-mitra {
+        padding-left: 180px;
+        text-align: center;
+        width: 700px;
+      }
+      .slider{
+        margin-left: 180px;
+      }
+      .container-latest{
+        margin-left: 100px;
+      }
+}
